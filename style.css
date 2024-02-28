@@ -1,0 +1,801 @@
+body{
+    background-image: url(images/containerimage.png); 
+
+}
+
+
+
+ .header{
+    background-color: #f5f5f5;
+    width: 100%px;
+    /* padding: 50px; */
+   margin: 0px; */
+    
+}
+
+
+.rayyan{
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+}
+  
+
+
+
+
+.box{
+    padding: 20px;
+} 
+
+.box{
+    /* width: 130px; */
+}
+
+.fox{
+    display: flex; 
+   justify-content: center;
+   text-align: center;
+
+}
+.fifteen{
+    
+    border-bottom: 3px solid #919191;
+    
+
+}
+
+.fifteen:hover{
+    color: white;
+    background-color: gray;
+}
+
+.fifty{
+    border-bottom: 3px solid #e3350d;
+       
+
+}
+
+.fifty:hover{
+    color: white;
+   background-color:  #e3350d;
+}
+
+.three{
+    border-bottom: 3px solid #ee6b2f;
+       
+
+}
+
+.three:hover{
+    color: white;
+    background-color: #ee6b2f;
+}
+
+.four{
+    border-bottom: 3px solid #e6bc2f;
+       
+
+}
+
+.four:hover{
+    color: white;
+    background-color: #e6bc2f;
+}
+
+.five{
+    border-bottom: 3px solid #4dad5b;
+       
+
+}
+
+.five:hover{
+    color: white;
+    background-color: #4dad5b;
+}
+
+.six{
+    border-bottom: 3px solid #30a7d7;
+       
+
+}
+
+.six:hover{
+    color: white;
+    background-color: #30a7d7;
+}
+
+.seven{
+    border-bottom: 3px solid #1b53ba;
+       
+
+}
+
+.seven:hover{
+    color: white;
+    background-color: #1b53ba;
+}
+
+
+.para{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header{
+    background-color: #f5f5f5;
+    width: 100%;
+    /* padding: 50px; */
+   margin: 0px; */
+    
+}
+
+
+.main>li{
+    list-style-type: none;
+}
+
+
+.gus-pepper{
+   
+    border: 2px solid  black;
+   
+    margin: 0px;
+   
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+} 
+.one{
+    border: 1px solid #dedede;
+    background-color: white;
+    width: 150px;
+    padding: 5px;
+   
+}
+.two{
+    border: 1px solid #dedede;
+    padding: 5px;
+    width: 150px;
+}
+
+.seventy{
+    border: 1px solid #dedede;
+    padding: 5px;
+    width: 150px;
+}
+
+.eighty{
+    border: 1px solid #dedede;
+    padding: 5px;
+    width: 180px;
+    height: 100px;
+
+}
+   
+   
+
+
+
+
+  
+
+
+
+
+
+
+.main-img>img{
+        width: 70%;
+
+}
+
+
+.main-img{
+
+  
+    position: relative;
+   
+ 
+}
+
+
+
+
+ 
+        
+
+.content{
+    width: 70%;
+        
+    background-color: #313131;
+    color: white;
+
+} 
+.content>p{
+     
+    
+ font-size: 20px;
+    font-weight: 500;
+}    
+.content>h3 {
+      
+     font-size: 30px;
+  
+}
+
+
+
+.mpn{
+    position: relative;
+    left: 72%;
+     top: -653px;
+   
+}
+
+
+.cv>img{
+    width: 300px;
+}
+
+.ppp{
+    color: #fffefb;
+    background-color: #c7aa79;
+    border: 1px solid black;
+    width: 300px;
+    padding: 10px;
+}
+
+.moon>img{
+        width: 150px;
+}
+.rise{
+    border: 1px solid black;
+    background-color: #1b53ba;
+    width: 150px;
+    padding: 10px;
+}
+
+.rise{
+    position: relative;
+    left: 150px;
+    top: -200px;
+}
+
+
+
+.img2{
+    position: relative;
+    top: -150px;
+    border-radius: 10px;
+}
+
+.img2>img{
+    width: 300px;
+}
+
+
+.colour1{
+    width: 300px;
+    background-color: #ff90c4;
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+
+.colour2{
+    width: 300px;
+    background-color: #30a7d7;
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+
+
+.img3>img{
+    width: 300px;
+}
+
+.voucher1{
+    position: relative;
+    top: -1130px;
+    left: 400px;
+}
+
+
+.voucher2{
+    position: relative;
+    top: -1400px;
+}
+
+
+
+.img4>img{
+    width: 300px;
+}
+
+.colour3{
+    width: 300px;
+    background-color: #855ac9;
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.image-wraper{
+    position: relative;
+    top: -1200px;
+}
+
+
+
+
+.photo1{
+    border: 2px solid black;
+    width:230px;
+    height: 250px;
+    background-color:   #525252;
+}
+.photo1>img{
+    width: 230px;
+}
+
+
+
+.mini-profile{
+    font-family: "Flexo-Bold",arial,sans-serif;
+         border: 2px solid black;
+         background-color: #232323;
+         color: white;
+         width: 230px;
+         left: 3px;
+         font-size: 35px;
+        
+       
+         }
+   
+   .image-wraper{
+       text-align: center;
+   }
+   .slider{
+ 
+     display: flex;
+    margin: 0;
+    justify-content: center; 
+    z-index: -5;
+   }
+
+
+
+
+
+  .profile{
+    width: ;
+    position: relative;
+   
+
+  }
+.profile>img{
+    width: 300px;
+}
+
+
+
+.text{
+    border: 1px solid black;
+    background-color:    #b32a0a ; 
+    color: white;
+    width: 300px;
+    padding: 15px;
+      
+   
+  
+}
+
+
+.one-fifty{
+   border: 1px ;
+   background-color: #fff;
+   width: 1000px;
+   height: 1300px;
+   display: block;
+   margin: 0 auto;
+ 
+  
+  
+}
+.slider3{
+   position: relative;
+   left: 0px;
+   top: 40px;
+   
+   
+
+     
+} 
+
+.github{
+    position: relative;
+    left: 350px;
+    top: -370px;
+  
+}
+
+
+     
+
+.text2{
+    border: 1px solid black;
+    background-color: #daa31c;
+    color: white;
+    width: 300px;
+    padding: 10px;
+    
+   
+}
+
+.text2>p{
+    color: black;
+}
+.profile2>img{
+    width: 300px;
+}
+
+.hundred{
+     
+      position: relative;
+     left:685px; 
+     top: -780px;
+}
+
+.profile3>img{
+         width: 312px;
+}
+.text3{
+    border: 1px solid black;
+    background-color: #313131;
+    color: white;
+    width: 312px;
+    padding: 5px;
+   
+
+   
+}
+
+
+.title{
+ 
+    position: relative;
+    top: -740px;
+     left: 350px; 
+}
+
+
+
+
+.twenty{
+    position: relative;
+    top: -850px;
+}
+
+.thirty{
+    position: relative;
+    top: -700px;
+}
+
+.fourty{
+    position: relative;
+    top: -850px;
+}
+
+
+.slider4{
+    display: flex;
+    justify-content: space-between;
+      
+      
+}
+
+.profile4>img{
+    width: 300px;
+}
+.profile4{
+    
+}
+.text4{
+    border: 1px solid black;
+    background-color: #1b82b1;
+    color: white;
+    width: 300px;
+    padding: 5px;
+    
+
+   
+}
+
+
+
+.profile5>img{
+    width: 300px;
+}
+.profile5{
+    
+}
+.text5{
+    border: 1px solid black;
+    background-color: #1b53ba;
+    color: white;
+    width: 300px;
+    padding: 5px;
+   
+
+}
+.profile6>img{
+    width: 300px;
+}
+.profile6{
+  
+}
+.text6{
+    border: 1px solid black;
+    background-color: #daa31c;
+    color: white;
+    width: 300px;
+    padding: 5px;
+ 
+
+}
+
+.text6>p{
+    color: black;
+}
+
+.dot{
+    position: relative;
+    top: -900px;
+    left: 700px; 
+   
+}
+
+
+.view{
+    border: 1px solid black;
+    background-color: #ee6b2f;
+    width: 300px;
+    text-align: left;
+    padding: 10px;
+   
+}
+.keep{
+    border: 1px solid black;
+    background-color: #30a7d7;
+    border-bottom-right-radius: 30px;
+    width: 300px;
+    text-align: left;
+    padding: 10px;
+}
+
+
+.foater{
+   
+}
+
+.form-1{
+    left: 40px;
+    margin: 20px;
+}
+.form-1>input{
+    width: 600px;
+    
+}
+.form-2>select{
+    width: 300px;
+}
+.depart{
+    width: 300px;
+}
+
+
+.foater{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+#manan{
+    border: 1px solid black;
+    width: 100px;
+    padding: 20px;
+    position: relative;
+    left: 100px; 
+}
+
+
+
+.line{
+    color: white;
+}
+
+.main-under{
+  
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+  
+}
+
+.main1{
+    border-right:2px solid black ;
+}
+
+
+.icon{
+    border-right:2px solid black ;
+    width: 300px;
+     word-spacing: 20px;
+     text-align: center;
+    
+}
+
+
+
+   
+.upper{
+    background-color: #232323;
+   padding:  50px;
+   width: 100%;
+   color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .pogo{
+    border: 1px solid black;
+  width: 70px;
+ 
+  position: fixed;
+  top: 35%;
+  left: 0px;
+  text-align: center;
+
+}
+
+  .post{
+    color: whitesmoke;
+     background-color: #54b564;
+     height: 80px;
+}
+
+.post1{
+    color: whitesmoke;
+    background-color: #616161;
+    height: 40px; 
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+   
+      
+    
+    
+     
